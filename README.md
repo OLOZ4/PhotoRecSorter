@@ -1,7 +1,7 @@
 # PhotoRecSorter
 
 The purpose of these files are to quickly manage your recovered files and put them in folders coresponding to their file extentions.
-For example file test.txt will go to folder named txt.
+For example file test.txt will go to folder named txt
 
 USAGE:
 
