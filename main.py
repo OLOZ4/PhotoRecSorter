@@ -2,7 +2,7 @@ import os
 recup_dir = "Documents/recup_dir." # path to your recup directories. Make sure, that it ends with recup_dir. 
 destination = "Documents/" # change it to your destination directory. 
 i = 0
-k = 6024 # change it  number of recup directories you have.
+k = 6024 # change it to number of recup directories you have.
 file_types =["", "flv", "tex", "xcf", "apk", "ai", "3gp", "bat", "xz", "tz", "jsonlz4", "json",
 "pcx", "zip", "jpg", "h", "class", "pct", "priv", "mpg", "DS_Store", "wtv", "gif", "dex", "au",
 "psd", "fits", "mbox", "lzo", "ttf", "wav", "pap", "html", "rpm", "aif", "a", "c", "sh", "bz2",
